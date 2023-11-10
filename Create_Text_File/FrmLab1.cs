@@ -15,7 +15,6 @@ namespace Create_Text_File
     {
         public string getInput;
 
-
         public FrmLab1()
         {
             InitializeComponent();
